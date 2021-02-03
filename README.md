@@ -3,6 +3,10 @@
 本项目由[JetBranins](https://www.jetbrains.com/?from=Unity3DTraining)赞助相关开发工具  
 <a href="https://www.jetbrains.com/?from=Unity3DTraining"><img src="https://github.com/XINCGer/Unity3DTraining/blob/master/Doc/images/jetbrains.png" width = "150" height = "150" div align=center /></a>
 
+----
+* [GitHub中README.md文件的编辑和使用](https://blog.csdn.net/u013181595/article/details/80676590)
+----
+
 ## 目录  
 >* [1.收集整理一些第三方库和插件](./3rdPlugins)  
 >* [2.月光跑酷3D版](https://github.com/XINCGer/3DMoonRunner)
